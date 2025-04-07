@@ -32,7 +32,7 @@ export default function Home({ data }: HomeProps) {
                 College of Information and Communication Technology
               </h1>
             </div>
-            <p className="text-purple-200 ml-4">Dean's Lister</p>
+            <p className="text-purple-200 ml-4">Dean&apos;s Lister</p>
           </div>
         </div>
       </header>

@@ -1,10 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import datacs from "@/data/csdata.json";
-import datais from "@/data/isdata.json";
-
-import CS from "@/app/pages/deansLister";
-import { handleData } from "@/app/pages/deansLister";
 
 export default function page() {
   return (

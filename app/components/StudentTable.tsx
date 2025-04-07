@@ -109,7 +109,7 @@ export default function StudentTable({ data }: StudentTableProps) {
                   </td>
                   <td className="px-4 py-3">
                     <span className="inline-flex rounded-full px-2 py-0.5 text-xs font-semibold bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-400">
-                      Dean's Lister
+                      Dean&apos;s Lister
                     </span>
                   </td>
                 </tr>
